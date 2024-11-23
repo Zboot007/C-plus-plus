@@ -1,0 +1,4 @@
+﻿  u2310118.cpp
+C:\Games\Homeworks\Visual studio hw\lab6\lab6\u2310118.cpp(91,7): warning C4305: '=': truncation from 'double' to 'float'
+C:\Games\Homeworks\Visual studio hw\lab6\lab6\u2310118.cpp(100,9): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  lab6.vcxproj -> C:\Games\Homeworks\Visual studio hw\lab6\x64\Debug\lab6.exe

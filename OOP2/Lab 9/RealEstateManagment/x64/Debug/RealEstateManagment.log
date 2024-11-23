@@ -1,0 +1,7 @@
+﻿  ComercialProperty.cpp
+  RealEstateManagment.cpp
+C:\Users\user\source\repos\RealEstateManagment\RealEstateManagment\RealEstateManagment.cpp(16,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\RealEstateManagment\RealEstateManagment\RealEstateManagment.cpp(17,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\user\source\repos\RealEstateManagment\RealEstateManagment\RealEstateManagment.cpp(36): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  RealEstateManagment.vcxproj -> C:\Users\user\source\repos\RealEstateManagment\x64\Debug\RealEstateManagment.exe

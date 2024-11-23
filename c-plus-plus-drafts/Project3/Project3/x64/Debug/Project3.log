@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Games\Homeworks\Visual studio hw\Project3\Project3\FileName.cpp(17,6): warning C4305: '=': truncation from 'double' to 'float'
+C:\Games\Homeworks\Visual studio hw\Project3\Project3\FileName.cpp(52): error C4700: uninitialized local variable 'f' used

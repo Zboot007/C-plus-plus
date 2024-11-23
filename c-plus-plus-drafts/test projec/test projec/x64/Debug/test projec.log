@@ -1,0 +1,3 @@
+﻿  asdas.cpp
+C:\Games\Homeworks\Visual studio hw\test projec\test projec\asdas.cpp(15): warning C4715: 'fact': not all control paths return a value
+  test projec.vcxproj -> C:\Games\Homeworks\Visual studio hw\test projec\x64\Debug\test projec.exe

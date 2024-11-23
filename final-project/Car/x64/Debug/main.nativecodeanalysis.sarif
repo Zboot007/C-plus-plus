@@ -1,0 +1,67 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.38.33133.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/user/desktop/car/car/main.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "7fa29dad93c0632fa3c04cce93f86e175b7be2c7dbb4862a6c81c4e079713aa9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/user/desktop/car/car/car.h"
+          },
+          "hashes": {
+            "sha-256": "0dd08f9065ddbd3d11ad42c607ff125a136889b95b61ef0068e7215a5e86548b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/user/desktop/car/car/suv.h"
+          },
+          "hashes": {
+            "sha-256": "8c5e8fb0fbbbb5bdc307813bfca8454faa39722631f148a8efd10e4d725594a2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/user/desktop/car/car/offroad.h"
+          },
+          "hashes": {
+            "sha-256": "d4d407d301ae0409381ee66cf31f1a04fa0214f5d8a896fc0c0d27652f4af6c3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/user/desktop/car/car/sedan.h"
+          },
+          "hashes": {
+            "sha-256": "3743f0c1f304dd5eb3a44913989c511eaee618bf2d45a9bfdecdba50ee3c12cf"
+          }
+        }
+      ]
+    }
+  ]
+}
